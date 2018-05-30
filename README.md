@@ -15,3 +15,6 @@ OCR for E&amp;P by Have Fun, written in Python 3
 $ for i in {1..3}; do python3 main.py \<path-to-image>/$i.png; done
 ###### Overwrite previous output (does not work with batch mode yet)
 $ python3 main.py -w \<path-to-image>/\<image>
+
+## Notes
+Works best on PNG files. Don't use lossy formats such as JPEG.
