@@ -1,0 +1,3 @@
+50 basic usage m do OCR on an image caﬂed ‘myscan.png‘ and save the result to 'omm- waum
+be:
+
