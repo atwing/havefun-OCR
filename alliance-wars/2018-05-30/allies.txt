@@ -25,3 +25,30 @@ KillingDutchmanses,12,Jactee,ALLY
 Milliondragon,30,Sylver,ALLY
 Milliondragon,41,Sylver,ALLY
 ,45,Jactee,ALLY
+,,Dax,ALLY
+,47,Dax,ALLY
+,,Jusenkyo,ALLY
+Johnny R,82,'I'irano,ALLY
+Johnny R,28,,ALLY
+Johnny R,45,,ALLY
+Whodatpackaﬂack,84,TheProphetess,ALLY
+Whodatpackaﬂack,41,Zena,ALLY
+Jill,,Zena,ALLY
+Jill,,Zena,ALLY
+Jill,44,Zena,ALLY
+ton turn 01,,A Lone Wolfy,ALLY
+ton turn 01,,lyn,ALLY
+ton ton o1,53,Jusenkyo,ALLY
+Thanos,, ,ALLY
+downwithtitansoszs,31,,ALLY
+downwithtitansoszs,39,,ALLY
+Twizteduo,54,,ALLY
+jeﬂ',23,seawolf,ALLY
+jeﬂ',76,M.Arrowsmith,ALLY
+jeﬂ',82,sidhekin,ALLY
+KillingDutchmanses,,,ALLY
+KillingDutchmanses,18,Jactee,ALLY
+KillingDutchmanses,12,Jactee,ALLY
+Milliondragon,30,Sylver,ALLY
+Milliondragon,41,Sylver,ALLY
+,45,Jactee,ALLY
