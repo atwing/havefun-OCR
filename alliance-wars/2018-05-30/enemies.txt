@@ -1,42 +1,44 @@
-Jusenkyo,31,,ENEMY
+,,Pennynancer,ENEMY
+,,Maudie,ENEMY
+,,Maudie,ENEMY
+Tirano,35,downwithtitansons,ENEMY
+Snoopy,,Jenshoots,ENEMY
+Snoopy,,Jenshoots,ENEMY
+snoopy,,Jenshoots,ENEMY
+QuarterPastThree,,'I'wizted420,ENEMY
+QuarterPastThree,,shamelessirishz,ENEMY
+sylver,31,,ENEMY
+sidhekin,82,KillingDutchmanSGS,ENEMY
+sidhekin,76,ton ion 01,ENEMY
+sidhekin,64,Jenshoots,ENEMY
+sidhekin,52,mrsdude1961,ENEMY
+sidhekin,,,ENEMY
+sidhekin,,,ENEMY
+Zena,70,Thanos,ENEMY
+dogfish,30,Seatacgem,ENEMY
+dogfish,64,Seatacgem,ENEMY
+dogfish,,,ENEMY
+dogfish,58,Carverme,ENEMY
+dogfish,13,Ir Is shhunter,ENEMY
+dogfish,,Ir Is shhunter,ENEMY
+Zena,,shamelessirishz,ENEMY
+Zena,57,shamelessirishz,ENEMY
+Zena,53,II' IS shhunter,ENEMY
+Zena,16,,ENEMY
+Zena,41,,ENEMY
+,10,,ENEMY
+,43,,ENEMY
+,66,Pennynancer,ENEMY
+,21,downwithtitansons,ENEMY
+,42,downwithtitansons,ENEMY
+,,ton ton 01,ENEMY
 Jusenkyo,13,,ENEMY
-Jrhear,84,,ENEMY
-Jrhear,11,Thanos,ENEMY
-Snoopy,58,Carverme,ENEMY
-Bdog,,,ENEMY
-Snoopy,40,,ENEMY
-,59,Thanos,ENEMY
-Snoopy,,PennyDancer,ENEMY
-,,shamelessirishz,ENEMY
-JICtEE,74,dudeandsassy333,ENEMY
-JICtEE,19,Twizted420,ENEMY
-JICtEE,12,PennyDancer,ENEMY
-M.Arrowsmitll,18,downwithtitan50328,ENEMY
-M.Arrowsmitll,45,downwithtitan50328,ENEMY
-Iyn,27,Glaucus,ENEMY
-Iyn,47,Glaucus,ENEMY
-Iyn,,,ENEMY
-Nico,47,Pennynancer,ENEMY
-TheProphetess,,sawasl 90°,ENEMY
-TheProphetess,,sawasl 90°,ENEMY
-Jusenkyo,31,,ENEMY
-Jusenkyo,13,,ENEMY
-Jrhear,84,,ENEMY
-Jrhear,11,Thanos,ENEMY
-Snoopy,58,Carverme,ENEMY
-Bdog,,,ENEMY
-Snoopy,40,,ENEMY
-,59,Thanos,ENEMY
-Snoopy,,PennyDancer,ENEMY
-,,shamelessirishz,ENEMY
-JICtEE,74,dudeandsassy333,ENEMY
-JICtEE,19,Twizted420,ENEMY
-JICtEE,12,PennyDancer,ENEMY
-M.Arrowsmitll,18,downwithtitan50328,ENEMY
-M.Arrowsmitll,45,downwithtitan50328,ENEMY
-Iyn,27,Glaucus,ENEMY
-Iyn,47,Glaucus,ENEMY
-Iyn,,,ENEMY
-Nico,47,Pennynancer,ENEMY
-TheProphetess,,sawasl 90°,ENEMY
-TheProphetess,,sawasl 90°,ENEMY
+Jusenkyo,,,ENEMY
+Jusenkyo,,,ENEMY
+FlagOK(Alain),51,,ENEMY
+FlagOK (Alain),,Twiztedun,ENEMY
+M.Arrowsmith,,Maudie,ENEMY
+M.Arrowsmith,,Maudie,ENEMY
+M.Arrowsmith,,Maudie,ENEMY
+M.Arrowsmith,,Maudie,ENEMY
+FlagOK (Alain),51,Maudie,ENEMY

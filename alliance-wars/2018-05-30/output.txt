@@ -1,51 +1,136 @@
-Jusenkyo,52,mrsdud21967,N/A
-Jusenkyo,31,,ENEMY
-Jusenkyo,13,,ENEMY
-Jrhear,84,,ENEMY
-Jrhear,11,Thanos,ENEMY
-,,Dax,ALLY
-,47,Dax,ALLY
+Carverwe,19,Jusenkyo,N/A
+Carverwe,37,Jusenkyo,ALLY
+Carverwe,,seawolf,ALLY
+ALX,27,dogfish,ALLY
+ALX,31,A Lone Wolfy,ALLY
+,,Pennynancer,ENEMY
+ALX,82,,ALLY
+,,Maudie,ENEMY
+,,Maudie,ENEMY
+,37,A Lone Wolfy,ALLY
+,53,Valhk,ALLY
+Tirano,35,downwithtitansons,ENEMY
+,,dogfish,ALLY
+,57,dogfish,ALLY
+,,seawolf,ALLY
+downwithtitansOBZS,,Dax,ALLY
+Killingnutchmanass,49,seawolf,ALLY
+KillingDutchmanGGS,51,DEX,N/A
+Johnny R,32,,ALLY
+Johnny R,41,,ALLY
+Seatacgem,64,Tenetrophe,ALLY
+niNJa KING KonG,,alexiksszz,ALLY
+Seatacge II‘I,,,ALLY
+ton ion 01,,lyn,ALLY
+niNJa KING KonG,84,alexiksszz,ALLY
+ton ion 01,,lyn,ALLY
+Seatacgem,10,,ALLY
+ton ion 01,,lyn,ALLY
+niNJa KING KonG,19,,ALLY
+niNJa KING KonG,,,ALLY
+Hochiemin,61,lyn,ALLY
+JIII,40,Nico,ALLY
+Snoopy,,Jenshoots,ENEMY
+Snoopy,,Jenshoots,ENEMY
+snoopy,,Jenshoots,N/A
+QuarterPastThree,,'I'wizted420,ENEMY
+QuarterPastThree,,shamelessirishz,ENEMY
+Hochiemin,31,jordylynn,ALLY
+downwithtitan50328,38,jordylynn,ALLY
+sylver,31,,ENEMY
+dudeandsassy333,,sylver,ALLY
+Hochiemin,,snoopy,ALLY
+dudeandsassy333,70,sylver,ALLY
+mrsdud21967,,snoopy,ALLY
+mrsdud21967,,snoopy,ALLY
+Squishy,76,M.Arrowsmith,ALLY
+Squishy,,snoopy,ALLY
+sidhekin,82,KillingDutchmanSGS,ENEMY
+sidhekin,76,ton ion 01,ENEMY
+sidhekin,64,Jenshoots,ENEMY
+sidhekin,52,mrsdude1961,ENEMY
+sidhekin,,,N/A
+sidhekin,,,ENEMY
+Johnny R,1O,Snoopy,ALLY
+Jill,48,Snoopy,ALLY
+jeﬂ‘,,,ALLY
+jeﬂ‘,16,Tirano,ALLY
+jeﬂ‘,19,Tirano,ALLY
+Zena,70,Thanos,ENEMY
+dogfish,30,Seatacgem,ENEMY
+dogfish,64,Seatacgem,ENEMY
+dogfish,,,ENEMY
+dogfish,58,Carverme,ENEMY
+dogfish,13,Ir Is shhunter,ENEMY
+dogfish,,Ir Is shhunter,ENEMY
+Milliondragon,,Tirano,ALLY
+Deshani,48,Tirano,ALLY
+Deshani,78,lactee,ALLY
+dudeandsassy333,,,N/A
+Deshani,26,,ALLY
+Deshani,,,ALLY
+Deshani,,,ALLY
+Deshani,48,,ALLY
+Zena,,shamelessirishz,ENEMY
+Zena,57,shamelessirishz,ENEMY
+,10,,ALLY
+Zena,53,II' IS shhunter,ENEMY
+,13,,ALLY
+,,,ALLY
+Zena,16,,ENEMY
+Zena,41,,ENEMY
+,,,ALLY
+Hochiemin,,,ALLY
+Hochiemin,16,Jrhear,ALLY
+Whodatpackattack,,Jrhear,ALLY
+PennyDancer,,,N/A
+PennyDancer,40,,ALLY
+PennyDancer,,Jrhear,ALLY
+PennyDancer,,Jrhear,ALLY
+AlX,28,seawolf,ALLY
+AlX,12,,ALLY
+PennyDancer,,,ALLY
+AlX,,FlagOK(Alain),ALLY
+shamelessirishz,11,Jusenkyo,ALLY
+shamelessirishz,,Jusenkyo,ALLY
+shamelessirishz,12,Zena,ALLY
+shamelessirishz,,FlagOK(Alain),ALLY
+shamelessirishz,,FlagOK(Alain),ALLY
+,51,seawolf,ALLY
 ,,Jusenkyo,ALLY
-Snoopy,58,Carverme,ENEMY
-Bdog,,,ENEMY
-Snoopy,40,,ENEMY
-,59,Thanos,ENEMY
-Snoopy,,PennyDancer,ENEMY
-,,shamelessirishz,ENEMY
-Johnny R,82,'I'irano,ALLY
-Johnny R,28,,ALLY
-Johnny R,45,,ALLY
-Whodatpackauack,,Jactee,N/A
-Whodatpackaﬂack,84,TheProphetess,ALLY
-JICtEE,74,dudeandsassy333,ENEMY
-Whodatpackaﬂack,41,Zena,ALLY
-JICtEE,19,Twizted420,ENEMY
-JICtEE,12,PennyDancer,ENEMY
-M.Arrowsmitll,18,downwithtitan50328,ENEMY
-M.Arrowsmitll,45,downwithtitan50328,ENEMY
-Iyn,27,Glaucus,ENEMY
-Jill,,Zena,ALLY
-Iyn,47,Glaucus,ENEMY
-Iyn,,,ENEMY
-Jill,,Zena,ALLY
-Jill,44,Zena,ALLY
-ton turn 01,,A Lone Wolfy,ALLY
-ton turn 01,,lyn,ALLY
-ton ton o1,53,Jusenkyo,ALLY
-Thanos,,jordylynn,N/A
-Thanos,, ,ALLY
-downwithtitansoszs,31,,ALLY
-downwithtitansoszs,39,,ALLY
-Twizteduo,54,,ALLY
-jeﬂ',23,seawolf,ALLY
-jeﬂ',76,M.Arrowsmith,ALLY
-jeﬂ',82,sidhekin,ALLY
-Nico,47,Pennynancer,ENEMY
-KillingDutchmanses,,,ALLY
-KillingDutchmanses,18,Jactee,ALLY
-KillingDutchmanses,12,Jactee,ALLY
-TheProphetess,,sawasl 90°,ENEMY
-TheProphetess,,sawasl 90°,ENEMY
-Milliondragon,30,Sylver,ALLY
-Milliondragon,41,Sylver,ALLY
-,45,Jactee,ALLY
+,10,,ENEMY
+,43,,ENEMY
+,66,Pennynancer,N/A
+IIIIunter,22,A Lone Wolfy,ALLY
+,,Fla90K (Alain),ALLY
+,13,Zena,ALLY
+,29,dogfish,ALLY
+,12,Fla90K (Alain),ALLY
+,,,ALLY
+,38,lusenkyo,ALLY
+,65,,ALLY
+,,dogfish,ALLY
+,,Zena,ALLY
+,,dogfish,ALLY
+Jill,,dogfish,ALLY
+Jenslloots,22,Tenetrophe,ALLY
+Jenslloots,42,Tenetrophe,ALLY
+Jenslloots,45,dogfish,ALLY
+53VV35190°,54,Dax,ALLY
+S&VV351900,73,,N/A
+saVV351900,60,,ALLY
+SiVVﬂS‘goo,,Zena,ALLY
+SiVVﬂS‘goo,46,A Lone Wolfy,ALLY
+,21,downwithtitansons,ENEMY
+,42,downwithtitansons,ENEMY
+,,ton ton 01,ENEMY
+Jusenkyo,13,,ENEMY
+Jusenkyo,,,ENEMY
+Jusenkyo,,,ENEMY
+FlagOK(Alain),51,,ENEMY
+FlagOK (Alain),,Twiztedun,ENEMY
+M.Arrowsmith,,Maudie,ENEMY
+M.Arrowsmith,,Maudie,ENEMY
+M.Arrowsmith,,Maudie,ENEMY
+M.Arrowsmith,,Maudie,ENEMY
+FlagOK (Alain),51,Maudie,ENEMY

@@ -200,7 +200,22 @@ def split_output(input_file, type1, type2):
             # print("class ENEMY")
             writer_e.writerow(line)
         else:
-            print("ERROR: class UNKNOWN")
+            # print("ERROR: class UNKNOWN")
+            reply = str(input(str(line) + ' ; ally (A) or enemy (e)?')).lower().strip()
+            if reply == '':
+                print("registered as ALLY")
+                line[3] = 'ALLY'
+                writer_a.writerow(line)
+            elif reply[0] == 'a':
+                line[3] = 'ALLY'
+                print("registered as ALLY")
+                writer_a.writerow(line)
+            elif reply[0] == 'e':
+                line[3] = 'ENEMY'
+                print("registered as ENEMY")
+                writer_e.writerow(line)
+            else:
+                print("Invalid input. Entry skipped.")
 
 def yes_or_no(question):
     reply = str(input(question+' (Y/n): ')).lower().strip()
